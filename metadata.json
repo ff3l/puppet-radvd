@@ -1,0 +1,14 @@
+{
+"name": "ff3l-radvd",
+"version": "0.0.1",
+"author": "benlue",
+"summary": "Simple Puppet radvd management module",
+"license": "WTFPL",
+"source": "https://github.com/ff3l/puppet-radvd.git",
+"project_page": "https://github.com/ff3l/puppet/radvd",
+"issues_url": "https://github.com/ff3l/puppet-radvd/issues",
+"description": "UNKONWN",
+"dependencies": [
+{"name":"ripienaar/concat","version_requirement":">= 0.1.0"}
+]
+}
